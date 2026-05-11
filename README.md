@@ -1,1 +1,1 @@
-# Experiencia
+# Paradigmas de la Programación
